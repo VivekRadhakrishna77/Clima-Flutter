@@ -5,7 +5,6 @@ After completing this project, I added a 'search location' feature by calling th
 ##        
 
 
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
 # Clima ☁
