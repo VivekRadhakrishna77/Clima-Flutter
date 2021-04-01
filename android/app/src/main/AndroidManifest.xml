@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="co.appbrewery.clima">
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
     <!-- io.flutter.app.FlutterApplication is an android.app.Application that
          calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -10,6 +11,10 @@
         android:name="io.flutter.app.FlutterApplication"
         android:label="clima"
         android:icon="@mipmap/ic_launcher">
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyDs--6PXYYnVw-x4z-LHANKMXaJFA3hK1A"/>
+
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
