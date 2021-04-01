@@ -2,7 +2,7 @@
 After completing this project, I added a 'search location' feature by calling the Google Maps API. This provides a drop down list of autocompleted locations as the user starts typing in the search box. The user can select one of the suggestions and get weather updates for that location.
 
 
-
+##        
 
 
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
